@@ -11,14 +11,17 @@ https://www.acmicpc.net/problem/1260
 
 using namespace std;
 
+#define TRUE  1
+#define FALSE 0
+
 void dfs(const int x, const vector<set<int>> &graph, vector<size_t> &check)
 {
-    check[x] = 1; //방문했다
+    check[x] = TRUE; //방문했다
     cout << x << ' ';
     for(auto it = graph[x].begin(); it != graph[x].end(); ++it)
     {
         int next = *it;
-        if (check[next] == 0)
+        if (check[next] == FALSE)
         {
             dfs(next, graph, check);
         }
@@ -28,7 +31,7 @@ void dfs(const int x, const vector<set<int>> &graph, vector<size_t> &check)
 void bfs(const int x, const vector<set<int>> &graph, vector<size_t> &check)
 {
     queue<int> q;
-    check[x] = 1; //방문했다
+    check[x] = TRUE; //방문했다
     q.push(x);
 
     while (!q.empty())
@@ -40,9 +43,9 @@ void bfs(const int x, const vector<set<int>> &graph, vector<size_t> &check)
         for (auto it = graph[front].begin(); it != graph[front].end(); ++it)
         {
             int next = *it;
-            if (check[next] == 0)
+            if (check[next] == FALSE)
             {
-                check[next] = 1;
+                check[next] = TRUE;
                 q.push(next);
             }
         }
@@ -57,7 +60,7 @@ int main()
     cin >> node >> edge >> startNode;
 
     vector<set<int>> graph(node + 1);  //정점은 1번부터
-    vector<size_t> check(node + 1, 0); //방문한 노드인지 체크여부
+    vector<size_t> check(node + 1, FALSE); //방문한 노드인지 체크여부
     
     //인접 리스트 생성
     for (int i = 0; i < edge; ++i)
@@ -72,7 +75,7 @@ int main()
     dfs(startNode, graph, check);
 
     check.clear();
-    check.resize(node + 1, 0);
+    check.resize(node + 1, FALSE);
     cout << '\n';
 
     bfs(startNode, graph, check);
