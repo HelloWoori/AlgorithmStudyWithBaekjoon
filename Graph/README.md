@@ -5,3 +5,4 @@
 -   [순열 사이클](https://www.acmicpc.net/problem/10451)
 -   [반복수열](https://www.acmicpc.net/problem/2331)
 -   [텀 프로젝트](https://www.acmicpc.net/problem/9466)
+-   [단지번호붙이기](https://www.acmicpc.net/problem/2667)
