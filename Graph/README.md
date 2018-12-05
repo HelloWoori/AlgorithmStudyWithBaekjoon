@@ -7,3 +7,4 @@
 -   [텀 프로젝트](https://www.acmicpc.net/problem/9466)
 -   [단지번호붙이기](https://www.acmicpc.net/problem/2667)
 -   [섬의 개수](https://www.acmicpc.net/problem/4963)
+-   [미로 탐색](https://www.acmicpc.net/problem/2178)
