@@ -14,7 +14,7 @@
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Graph/CycleOfPermutation.cpp)
 - 반복수열
 	- https://www.acmicpc.net/problem/2331
-	- [나의 풀이](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Graph/RepetitiveSequence.cpp)
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Graph/RepetitiveSequence.cpp)
 - 텀 프로젝트
 	- https://www.acmicpc.net/problem/9466
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Graph/TermProject.cpp)

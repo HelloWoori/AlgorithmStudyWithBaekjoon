@@ -1,3 +1,7 @@
+/*
+미로 탐색
+https://www.acmicpc.net/problem/2178
+*/
 #include <iostream>
 #include <vector>
 #include <string>
