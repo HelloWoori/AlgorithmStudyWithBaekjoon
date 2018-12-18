@@ -5,3 +5,6 @@
 - 트리의 부모찾기
 	- https://www.acmicpc.net/problem/11725
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Tree/FindParent.cpp)
+- 트리의 지름
+	- https://www.acmicpc.net/problem/1167
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Tree/DiameterOfTree1.cpp)
