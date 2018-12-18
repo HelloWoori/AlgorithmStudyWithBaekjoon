@@ -8,3 +8,6 @@
 - 트리의 지름
 	- https://www.acmicpc.net/problem/1167
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Tree/DiameterOfTree1.cpp)
+- 트리의 지름
+	- https://www.acmicpc.net/problem/1967
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Tree/DiameterOfTree2.cpp)
