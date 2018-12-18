@@ -11,3 +11,4 @@
 - 트리의 지름
 	- https://www.acmicpc.net/problem/1967
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Tree/DiameterOfTree2.cpp)
+	- ['트리의 지름'이란?](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Tree/DiameterOfTree.png)
