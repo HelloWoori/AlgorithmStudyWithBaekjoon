@@ -1,10 +1,5 @@
 ## 다이나믹 프로그래밍 1 
--   [1로 만들기](https://www.acmicpc.net/problem/1463)
--   [2×n 타일링](https://www.acmicpc.net/problem/11726)
--   [2×n 타일링 2](https://www.acmicpc.net/problem/11727)
--   [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
--   [붕어빵 판매하기](https://www.acmicpc.net/problem/11052)
--   [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
--   [오르막 수](https://www.acmicpc.net/problem/11057)
--   [이친수](https://www.acmicpc.net/problem/2193)
--   [스티커](https://www.acmicpc.net/problem/9465)
+- 1로 만들기
+    - https://www.acmicpc.net/problem/1463
+    - [Top-down](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Graph/MakeOne_recursive.cpp)
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Graph/MakeOne_for.cpp)
