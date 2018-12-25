@@ -1,6 +1,6 @@
 /*
-2xn 타일링 1
-https://www.acmicpc.net/problem/11726
+2xn 타일링 2
+https://www.acmicpc.net/problem/11727
 */
 #include <iostream>
 #include <vector>
@@ -11,23 +11,23 @@ int calc(const int n, vector<int>& dp)
 {
     if (dp[n] > 0)
         return dp[n];
-    
+
     if (n < 2)
     {
         dp[n] = 1;
-        return dp[n];
     }
     else
     {
-        int temp = calc(n - 1, dp) + calc(n - 2, dp);
+        int temp = calc(n - 1, dp) + 2 * calc(n - 2, dp);
         dp[n] = temp % 10007;
-        return dp[n];
     }
+    return dp[n];
 }
+
 int main()
 {
     ios_base::sync_with_stdio(false);
-
+    
     int input(0);
     cin >> input;
 

@@ -1,9 +1,13 @@
 ## 다이나믹 프로그래밍 1 
 - 1로 만들기
     - https://www.acmicpc.net/problem/1463
-    - [Top-down](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/masterr/DynamicProgramming/MakeOne_recursive.cpp)
+    - [Top-down](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/MakeOne_recursive.cpp)
     - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/MakeOne_for.cpp)
-- 2xn 타일링
+- 2xn 타일링 1
     - https://www.acmicpc.net/problem/11726
     - [Top-down](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/TilingOf2xN1_recursive.cpp)
     - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/TilingOf2xN1_for.cpp)
+- 2xn 타일링 2
+    - https://www.acmicpc.net/problem/11727
+    - [Top-down](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/TilingOf2xN2_recursive.cpp)
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/TilingOf2xN2_for.cpp)
