@@ -15,3 +15,7 @@
     - https://www.acmicpc.net/problem/9095
     - [Top-down](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/OneTwoThree_recursive.cpp)
     - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/OneTwoThree_for.cpp)
+- 카드 구매하기
+    - https://www.acmicpc.net/problem/11052
+    - [Top-down](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/BuyCard_recursive.cpp)
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/BuyCard_for.cpp)
