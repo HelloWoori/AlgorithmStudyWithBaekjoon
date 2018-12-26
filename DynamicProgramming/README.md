@@ -19,3 +19,6 @@
     - https://www.acmicpc.net/problem/11052
     - [Top-down](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/BuyCard_recursive.cpp)
     - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/BuyCard_for.cpp)
+- 쉬운 계단 수
+    - https://www.acmicpc.net/problem/10844
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/EasyStaircase_for.cpp)
