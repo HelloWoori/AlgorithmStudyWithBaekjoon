@@ -25,3 +25,6 @@
 - 오르막 수
     - https://www.acmicpc.net/problem/11057
     - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/NumOfAscent_for.cpp)
+- 이친수
+    - https://www.acmicpc.net/problem/2193
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/PinaryNumber_for.cpp)
