@@ -21,4 +21,7 @@
     - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/BuyCard_for.cpp)
 - 쉬운 계단 수
     - https://www.acmicpc.net/problem/10844
-    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/EasyStaircase_for.cpp)
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/NumOfEasyStaircase_for.cpp)
+- 오르막 수
+    - https://www.acmicpc.net/problem/11057
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/NumOfAscent_for.cpp)
