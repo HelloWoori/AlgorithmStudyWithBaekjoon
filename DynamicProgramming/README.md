@@ -31,3 +31,6 @@
 - 스티커
     - https://www.acmicpc.net/problem/9465
     - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/Sticker.cpp)
+- 포도주 시식
+    - https://www.acmicpc.net/problem/2156
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/DrinkWine_for.cpp)
