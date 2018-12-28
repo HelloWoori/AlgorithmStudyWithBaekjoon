@@ -34,3 +34,6 @@
 - 포도주 시식
     - https://www.acmicpc.net/problem/2156
     - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/DrinkWine_for.cpp)
+- 가장 긴 증가하는 부분 수열
+    - https://www.acmicpc.net/problem/11053
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/LongestIncreasingSubsequence_for.cpp)
