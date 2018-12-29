@@ -37,3 +37,6 @@
 - 가장 긴 증가하는 부분 수열
     - https://www.acmicpc.net/problem/11053
     - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/LongestIncreasingSubsequence_for.cpp)
+- 가장 큰 증가 부분 수열
+    - https://www.acmicpc.net/problem/11055
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/LargestIncreasingSubsequence_for.cpp)
