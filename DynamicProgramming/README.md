@@ -49,3 +49,8 @@
 - 연속합
     - https://www.acmicpc.net/problem/1912
     - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/ContinuousSum_for.cpp)
+- 계단 오르기
+    - https://www.acmicpc.net/problem/2579
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/GoUpTheStairs_for.cpp)
+
+
