@@ -46,3 +46,6 @@
 - 가장 긴 바이토닉 부분 수열
     - https://www.acmicpc.net/problem/11054
     - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/LongestBitonicSubsequence_for.cpp)
+- 연속합
+    - https://www.acmicpc.net/problem/1912
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/ContinuousSum_for.cpp)
