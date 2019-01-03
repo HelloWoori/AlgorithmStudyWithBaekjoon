@@ -43,3 +43,6 @@
 - 가장 긴 감소하는 부분 수열
     - https://www.acmicpc.net/problem/11722
     - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/LongestdecreasingSubsequence_for.cpp)
+- 가장 긴 바이토닉 부분 수열
+    - https://www.acmicpc.net/problem/11054
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/LongestBitonicSubsequence_for.cpp)
