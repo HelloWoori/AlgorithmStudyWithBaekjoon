@@ -52,5 +52,6 @@
 - 계단 오르기
     - https://www.acmicpc.net/problem/2579
     - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/GoUpTheStairs_for.cpp)
-
-
+- 제곱수의 합
+    - https://www.acmicpc.net/problem/1699
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/SumOfSquares_for.cpp)
