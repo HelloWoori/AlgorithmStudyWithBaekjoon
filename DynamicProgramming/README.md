@@ -61,3 +61,7 @@
 - 파도반 수열
     - https://www.acmicpc.net/problem/9461
     - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/PadovanSequence_for.cpp)
+- 합분해
+    - https://www.acmicpc.net/problem/2225
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/HabBunHae_for.cpp)
+    
