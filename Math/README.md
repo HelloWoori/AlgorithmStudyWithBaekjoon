@@ -1,4 +1,4 @@
-## 수학1
+## 수학 1
 - 나머지
     - https://www.acmicpc.net/problem/10430
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/Mod.cpp)
