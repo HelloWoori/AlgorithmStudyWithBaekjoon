@@ -17,3 +17,6 @@
     - https://www.acmicpc.net/problem/1934
     - [내 소스 1_비재귀](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/LCM.cpp)
     - [내 소스 2_재귀](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/LCM_recursive.cpp)
+- GCD의 합
+    - https://www.acmicpc.net/problem/9613
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/SumOfGCD.cpp)
