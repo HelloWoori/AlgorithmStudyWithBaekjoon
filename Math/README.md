@@ -20,3 +20,21 @@
 - GCD의 합
     - https://www.acmicpc.net/problem/9613
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/SumOfGCD.cpp)
+- 진법 변환 2
+    - https://www.acmicpc.net/problem/11005
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/ConvertFromDecimalToBaseN.cpp)
+    ```
+    - 10진법 수 N을 B진법으로 바꾸려면 N이 0이 될때까지 나머지를 계속해서 구하면 된다.
+    - 11을 3진법으로 바꾸는 방법
+    - 11 / 3 = 3 ... 2
+    -  3 / 3 = 1 ... 0
+    -  1 / 3 = 0 ... 1
+    - 따라서 11은 3진법으로 102이다.
+    ```
+- 진법 변환
+    - https://www.acmicpc.net/problem/2745
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/ConvertFromBaseNToDecimal.cpp)
+    ```
+    - B진법 수 N을 10진법 수로 바꾸려면 B^k를 곱하면서 더해가면 된다.
+    - 3진법 수 102 = 1 * 3^2 + 0 * 3^1 + 2 * 3^0 = 11
+    ```
