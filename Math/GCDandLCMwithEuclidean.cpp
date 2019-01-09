@@ -34,5 +34,5 @@ int Euclidean(int a, int b)
     if (b == 0)
         return a;
     
-    Euclidean(b, a % b);
+    return Euclidean(b, a % b);
 }

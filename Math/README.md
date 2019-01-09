@@ -13,3 +13,7 @@
     - [내 소스 1](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/GCDandLCM.cpp)
     - [내 소스 2_유클리드 호제법 사용](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/GCDandLCMwithEuclidean.cpp)
     - [유클리드 호제법이란?](https://hellowoori.tistory.com/27)
+- 최소공배수
+    - https://www.acmicpc.net/problem/1934
+    - [내 소스 1_비재귀](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/LCM.cpp)
+    - [내 소스 2_재귀](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/LCM_recursive.cpp)
