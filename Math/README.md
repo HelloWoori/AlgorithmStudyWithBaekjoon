@@ -44,3 +44,6 @@
 - 8진법 2진법 ⚠️
     - https://www.acmicpc.net/problem/1212
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/ConvertFromOctalToBinary.cpp)
+- -2진수
+    - https://www.acmicpc.net/problem/2089
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/ConvertFromDecimalToMinusBinary.cpp)
