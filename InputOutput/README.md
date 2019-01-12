@@ -13,4 +13,7 @@
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/InputOutput/AplusB3.cpp)   
 - A+B - 4
     - https://www.acmicpc.net/problem/10951
-    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/InputOutput/AplusB4.cpp) 
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/InputOutput/AplusB4.cpp)
+- A+B - 5
+    - https://www.acmicpc.net/problem/10952
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/InputOutput/AplusB5.cpp)
