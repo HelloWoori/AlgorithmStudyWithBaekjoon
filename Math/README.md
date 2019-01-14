@@ -50,3 +50,6 @@
 - Base Conversion
     - https://www.acmicpc.net/problem/11576
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/BaseConversion.cpp)
+- 소수 찾기
+    - https://www.acmicpc.net/problem/1978
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/FindPrime.cpp)
