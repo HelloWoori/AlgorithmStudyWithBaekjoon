@@ -53,3 +53,6 @@
 - 소수 찾기
     - https://www.acmicpc.net/problem/1978
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/FindPrime.cpp)
+- 소수 구하기 ⚠️
+    - https://www.acmicpc.net/problem/1929
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/FindPrime2.cpp)
