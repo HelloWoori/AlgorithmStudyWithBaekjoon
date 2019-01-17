@@ -57,5 +57,5 @@
     - https://www.acmicpc.net/problem/1929
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/FindPrime2.cpp)
 - 골드바흐의 추측
-    - https://www.acmicpc.net/board/view/20221
+    - https://www.acmicpc.net/problem/6588
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/Goldbach's_Conjecture.cpp)
