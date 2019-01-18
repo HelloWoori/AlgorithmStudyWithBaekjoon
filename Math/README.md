@@ -59,3 +59,6 @@
 - 골드바흐의 추측
     - https://www.acmicpc.net/problem/6588
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/Goldbach's_Conjecture.cpp)
+- 소인수분해 ⚠️(최적화해서 다시 풀어보기!)
+    - https://www.acmicpc.net/problem/11653
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/PrimeFactorization.cpp)

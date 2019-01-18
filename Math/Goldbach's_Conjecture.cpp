@@ -16,7 +16,7 @@ bool check[MAX + 1]; //지워졌으면 true
 int main()
 {
     //에라토스테네스의 체
-    for (int i = 2; i * i <= MAX; ++i)
+    for (int i = 2; i <= MAX; ++i)
     {
         if (false == check[i]) //지워지지 않았다. 즉, 소수이다.
             prime[pn++] = i;
