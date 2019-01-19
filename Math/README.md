@@ -62,3 +62,6 @@
 - 소인수분해 ⚠️(최적화해서 다시 풀어보기!)
     - https://www.acmicpc.net/problem/11653
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/PrimeFactorization.cpp)
+- 팩토리얼
+    - https://www.acmicpc.net/problem/10872
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/Factorial.cpp)
