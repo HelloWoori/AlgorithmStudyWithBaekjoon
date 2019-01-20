@@ -65,3 +65,6 @@
 - 팩토리얼
     - https://www.acmicpc.net/problem/10872
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/Factorial.cpp)
+- 팩토리얼 0의 개수
+    - https://www.acmicpc.net/problem/1676
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Math/FactorialTheNumOfZeros.cpp)
