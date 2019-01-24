@@ -5,3 +5,6 @@
 - 좌표 정렬하기
 	- https://www.acmicpc.net/problem/11650
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Sort/SortPoints.cpp)
+- 좌표 정렬하기 2
+	- https://www.acmicpc.net/problem/11651
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Sort/SortPoints2.cpp)
