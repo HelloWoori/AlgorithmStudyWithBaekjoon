@@ -2,7 +2,8 @@
 ## 그래프 1
 - DFS와 BFS
 	- https://www.acmicpc.net/problem/1260
-	-  [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Graph/DFS_BFS.cpp)
+	- [내 소스 with std::set](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Graph/DFSandBFSwithSet.cpp)
+	- [내 소스 with std::sort](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Graph/DFSandBFSwithSort.cpp)
 - 연결 요소의 개수
 	- https://www.acmicpc.net/problem/11724
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Graph/TheNumberOfConnectedComponents.cpp)

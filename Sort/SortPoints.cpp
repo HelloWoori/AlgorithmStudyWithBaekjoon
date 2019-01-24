@@ -17,23 +17,6 @@ struct Point
     Point() : x(0), y(0) {}
     Point(int _x, int _y) : x(_x), y(_y) {}
 
-    Point bigger(Point other)
-    {
-        if (x == other.x)
-        {
-            if (y > other.y)
-                return Point(x, y);
-        }
-        else if (x > other.x)
-        {
-            return Point(x, y);
-        }
-        else
-        {
-            return Point(other.x, other.y);
-        }
-    }
-
     bool operator < (const Point& other) const
     {
         if (x == other.x)
