@@ -11,3 +11,6 @@
 - 나이순 정렬
 	- https://www.acmicpc.net/problem/10814
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Sort/SortbyAge.cpp)
+- 국영수
+	- https://www.acmicpc.net/problem/10825
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Sort/KorEngMath.cpp)
