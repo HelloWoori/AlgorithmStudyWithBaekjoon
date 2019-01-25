@@ -33,6 +33,8 @@ struct Person
 
 int main()
 {
+    ios_base::sync_with_stdio(false);
+
     int theNumOfPeople(0);
     cin >> theNumOfPeople;
 
