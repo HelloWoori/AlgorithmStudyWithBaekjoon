@@ -8,3 +8,6 @@
 - 좌표 정렬하기 2
 	- https://www.acmicpc.net/problem/11651
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Sort/SortPoints2.cpp)
+- 나이순 정렬
+	- https://www.acmicpc.net/problem/10814
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Sort/SortbyAge.cpp)
