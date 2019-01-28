@@ -20,3 +20,6 @@
 - 카드
 	- https://www.acmicpc.net/problem/11652
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Sort/Card.cpp)
+- K번째 수
+	- https://www.acmicpc.net/problem/11004
+	- [내 소스 with std::nth_element](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Sort/KthNumber.cpp)
