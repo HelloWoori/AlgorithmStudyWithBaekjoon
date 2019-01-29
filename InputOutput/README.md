@@ -26,3 +26,15 @@
 - A+B - 8
     - https://www.acmicpc.net/problem/11022
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/InputOutput/AplusB8.cpp)
+- 그대로 출력하기
+    - https://www.acmicpc.net/problem/11718
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/InputOutput/PrintAsItIs.cpp)
+- 그대로 출력하기 2
+    - https://www.acmicpc.net/problem/11719
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/InputOutput/PrintAsItIs2.cpp)
+- 숫자의 합
+    - https://www.acmicpc.net/problem/11720
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/InputOutput/SumOfNumbers.cpp)
+- 열 개씩 끊어 출력하기
+    - https://www.acmicpc.net/problem/11721
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/InputOutput/PrintTenByTen.cpp)
