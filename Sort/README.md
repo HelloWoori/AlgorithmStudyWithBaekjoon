@@ -23,3 +23,6 @@
 - K번째 수
 	- https://www.acmicpc.net/problem/11004
 	- [내 소스 with std::nth_element](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Sort/KthNumber.cpp)
+- 버블 소트
+	- https://www.acmicpc.net/problem/1377
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/Sort/BubbleSort.cpp)
