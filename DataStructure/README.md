@@ -23,7 +23,7 @@
 - 알파벳 개수
     - https://www.acmicpc.net/problem/10808
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/CountAlphabet.cpp)
-- 알파벳 개수
+- 알파벳 찾기
     - https://www.acmicpc.net/problem/10809
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/FindAlphabet.cpp)
 - 문자열 분석
