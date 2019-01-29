@@ -1,1 +1,43 @@
 ## 자료구조 1
+- 스택
+    - https://www.acmicpc.net/problem/10828
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/Stack.cpp)
+- 괄호
+    - https://www.acmicpc.net/problem/9012
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/Bracket.cpp)
+- 쇠막대기
+    - https://www.acmicpc.net/problem/10799
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/IronBar.cpp)
+- 에디터
+    - https://www.acmicpc.net/problem/1406
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/Editor.cpp)
+- 큐
+    - https://www.acmicpc.net/problem/10845
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/Queue.cpp)
+- 조세퍼스 문제
+    - https://www.acmicpc.net/problem/1158
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/JosephusProblem.cpp)
+- 덱
+    - https://www.acmicpc.net/problem/10866
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/Deque.cpp)
+- 알파벳 개수
+    - https://www.acmicpc.net/problem/10808
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/CountAlphabet.cpp)
+- 알파벳 개수
+    - https://www.acmicpc.net/problem/10809
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/FindAlphabet.cpp)
+- 문자열 분석
+    - https://www.acmicpc.net/problem/10820
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/StringAnalysis.cpp)
+- 단어 길이 재기
+    - https://www.acmicpc.net/problem/2743
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/WordLength.cpp)
+- ROT13
+    - https://www.acmicpc.net/problem/11655
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/ROT13.cpp)
+- 네 수
+    - https://www.acmicpc.net/problem/10824
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/FourNumbers.cpp)
+- 접미사 배열
+    - https://www.acmicpc.net/problem/11656
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DataStructure/Suffix.cpp)
