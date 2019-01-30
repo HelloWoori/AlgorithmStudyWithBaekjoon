@@ -64,4 +64,6 @@
 - 합분해
     - https://www.acmicpc.net/problem/2225
     - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/HabBunHae_for.cpp)
-    
+- 암호코드
+    - https://www.acmicpc.net/problem/2011
+    - [Bottom-up](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming/Alphacode.cpp)
