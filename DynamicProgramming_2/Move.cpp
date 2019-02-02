@@ -55,6 +55,8 @@ void solveProblem(const Pos& pos,
 
 int main()
 {
+    ios_base::sync_with_stdio(false);
+
     int height(0), width(0);
     cin >> height >> width;
    
