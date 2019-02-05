@@ -5,6 +5,9 @@
 - 다음 순열
 	- https://www.acmicpc.net/problem/10972
 	- [내 소스 with std::next_permutation](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/NextPermutation.cpp)
+- 이전 순열
+	- https://www.acmicpc.net/problem/10973
+	- [내 소스 with std::prev_permutation](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/PrevPermutation.cpp)
 
 ## 완전 탐색 1
 
