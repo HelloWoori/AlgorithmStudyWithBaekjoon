@@ -8,6 +8,9 @@
 - 이전 순열
 	- https://www.acmicpc.net/problem/10973
 	- [내 소스 with std::prev_permutation](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/PrevPermutation.cpp)
+- 모든 순열
+	- https://www.acmicpc.net/problem/10974
+	- [내 소스 with std::next_permutation](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/AllPermutation.cpp)
 
 ## 완전 탐색 1
 
