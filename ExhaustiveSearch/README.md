@@ -13,5 +13,8 @@
 	- [내 소스 with std::next_permutation](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/AllPermutation.cpp)
 
 ## 완전 탐색 1
+- 날짜 계산
+	- https://www.acmicpc.net/problem/1476
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/CalcDate.cpp)
 
 ## 완전 탐색 2
