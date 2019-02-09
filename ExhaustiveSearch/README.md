@@ -19,5 +19,8 @@
 - 차이를 최대로
 	- https://www.acmicpc.net/problem/10819
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/MaximumDifference.cpp)
+- 외판원 순회 2
+	- https://www.acmicpc.net/problem/10971
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/TravelingSalesmanProblem2.cpp)
 
 ## 완전 탐색 2
