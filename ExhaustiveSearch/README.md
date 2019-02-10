@@ -22,5 +22,8 @@
 - 외판원 순회 2
 	- https://www.acmicpc.net/problem/10971
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/TravelingSalesmanProblem2.cpp)
+- 로또
+	- https://www.acmicpc.net/problem/6603
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/Lotto.cpp)
 
 ## 완전 탐색 2
