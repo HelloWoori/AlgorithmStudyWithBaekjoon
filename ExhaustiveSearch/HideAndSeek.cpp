@@ -11,26 +11,11 @@ const int MAX = 200000;
 int check[MAX + 1];//0: 방문하지 않음, 1: 방문함
 int dist[MAX + 1]; //트리의 높이 저장
 
-void solveProblem1(const int startPos,
-                  const int NextPos,
-                  queue<int>& q)
-{
-    if (NextPos >= 0)
-    {
-        if (check[NextPos] == 0)
-        {
-            q.push(NextPos);
-            check[NextPos] = 1;
-            dist[NextPos] = dist[startPos] + 1;
-        }
-    }
-}
-
-void solveProblem2(const int startPos, 
+void solveProblem(const int startPos, 
                   const int NextPos, 
                   queue<int>& q)
 {
-    if (NextPos < MAX)
+    if (NextPos >= 0 && NextPos < MAX)
     {
         if (check[NextPos] == 0)
         {
@@ -57,9 +42,11 @@ int main()
         int position = q.front();
         q.pop();
 
-        solveProblem1(position, position - 1, q);
-        solveProblem2(position, position + 1, q);
-        solveProblem2(position, position * 2, q);
+        if (position == sister) break;
+
+        solveProblem(position, position - 1, q);
+        solveProblem(position, position + 1, q);
+        solveProblem(position, position * 2, q);
     }
 
     printf("%d\n", dist[sister]);
