@@ -25,5 +25,8 @@
 - 로또
 	- https://www.acmicpc.net/problem/6603
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/Lotto.cpp)
+- 숨바꼭질
+	- https://www.acmicpc.net/problem/1697
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/HideAndSeek.cpp)
 
 ## 완전 탐색 2
