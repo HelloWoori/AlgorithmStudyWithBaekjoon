@@ -16,6 +16,9 @@
 - 날짜 계산
 	- https://www.acmicpc.net/problem/1476
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/CalcDate.cpp)
+- 리모콘 ⚠️
+	- https://www.acmicpc.net/problem/1107
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/RemoteControl.cpp)
 - 차이를 최대로
 	- https://www.acmicpc.net/problem/10819
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/MaximumDifference.cpp)
@@ -25,7 +28,7 @@
 - 로또
 	- https://www.acmicpc.net/problem/6603
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/Lotto.cpp)
-- 숨바꼭질
+- 숨바꼭질 ⚠️
 	- https://www.acmicpc.net/problem/1697
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/HideAndSeek.cpp)
 
