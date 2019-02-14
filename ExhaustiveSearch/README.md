@@ -31,5 +31,8 @@
 - 숨바꼭질 ⚠️
 	- https://www.acmicpc.net/problem/1697
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/HideAndSeek.cpp)
+- 소수 경로 ⚠️
+	- https://www.acmicpc.net/problem/1963
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/PrimePath.cpp)
 
 ## 완전 탐색 2
