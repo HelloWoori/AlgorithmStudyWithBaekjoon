@@ -11,6 +11,9 @@
 - 모든 순열
 	- https://www.acmicpc.net/problem/10974
 	- [내 소스 with std::next_permutation](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/AllPermutation.cpp)
+- 순열의 순서
+	- https://www.acmicpc.net/problem/1722
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/SequenceOfPermutation.cpp)
 
 ## 완전 탐색 1
 - 날짜 계산
