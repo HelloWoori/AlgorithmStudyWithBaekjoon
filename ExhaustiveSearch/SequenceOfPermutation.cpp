@@ -21,12 +21,12 @@ int main()
     int theNumOfNumbers(0), cmd(0);
     scanf("%d %d", &theNumOfNumbers, &cmd);
 
-    /* k번째 수열 출력 */
+    /* k번째 순열 출력 */
     if (cmd == 1)
     {
         cmd1(theNumOfNumbers);
     }
-    /* 몇 번째 수열인지 출력 */
+    /* 몇 번째 순열인지 출력 */
     else if (cmd == 2)
     {
         cmd2(theNumOfNumbers);
@@ -90,13 +90,13 @@ void cmd2(int theNumOfNumbers)
     vector<int> permutation(theNumOfNumbers, 0);
     vector<bool> check(theNumOfNumbers + 1, false);
 
-    //수열 입력
+    //순열 입력
     for (int i = 0; i < theNumOfNumbers; ++i)
     {
         scanf("%d", &permutation[i]);
     }
 
-    //몇 번째 수열인지 계산
+    //몇 번째 순열인지 계산
     ll result(0);
     for (int idx = 0; idx < theNumOfNumbers; ++idx)
     {
