@@ -40,5 +40,8 @@
 - DSLR
 	- https://www.acmicpc.net/problem/9019
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/DSLR.cpp)
+- 퍼즐
+	- https://www.acmicpc.net/problem/1525
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/Puzzle.cpp)
 
 ## 완전 탐색 2
