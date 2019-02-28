@@ -1,5 +1,5 @@
 # AlgorithmStudyWithBaekjoon
-[Baekjoon Online Judge](https://www.acmicpc.net/)의 알고리즘들을 풀며 정리한 저장소 :)
+[Baekjoon Online Judge](https://www.acmicpc.net/)와 [프로그래머스](https://programmers.co.kr/)의 알고리즘들을 풀며 정리한 저장소 :)
 
 ## 백준 온라인 강의 - [알고리즘 기초](https://code.plus/course/4)
 ### 목차
