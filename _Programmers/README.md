@@ -14,3 +14,8 @@
 - 모의고사
     - https://programmers.co.kr/learn/courses/30/lessons/42840
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/_Programmers/Supoza.cpp)
+
+### [정렬](https://programmers.co.kr/learn/courses/30/parts/12198)
+- K번째 수
+    - https://programmers.co.kr/learn/courses/30/lessons/42748
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/_Programmers/Kth.cpp)
