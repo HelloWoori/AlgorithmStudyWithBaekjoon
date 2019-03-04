@@ -24,3 +24,6 @@
 - 완주하지 못한 선수
     - https://programmers.co.kr/learn/courses/30/lessons/42576
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/_Programmers/Marathon.cpp)
+- 전화번호 목록
+    - https://programmers.co.kr/learn/courses/30/lessons/42577
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/_Programmers/PhoneBook.cpp)
