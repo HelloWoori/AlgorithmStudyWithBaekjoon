@@ -32,3 +32,6 @@
 - 탑
     - https://programmers.co.kr/learn/courses/30/lessons/42588
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/_Programmers/Tower.cpp)
+- 프린터
+    - https://programmers.co.kr/learn/courses/30/lessons/42587
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/_Programmers/Printer.cpp)
