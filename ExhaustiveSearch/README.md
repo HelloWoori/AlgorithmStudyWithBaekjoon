@@ -46,5 +46,8 @@
 - 물통
 	- https://www.acmicpc.net/problem/2251
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/Bucket.cpp)
+- 1, 2, 3 더하기
+	- https://www.acmicpc.net/problem/9095
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/PlusOneTwoThree.cpp)
 
 ## 완전 탐색 2
