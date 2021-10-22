@@ -49,5 +49,8 @@
 - 1, 2, 3 더하기
 	- https://www.acmicpc.net/problem/9095
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/PlusOneTwoThree.cpp)
+- 암호 만들기
+	- https://www.acmicpc.net/problem/1759
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/MakePassword.cpp)
 
 ## 완전 탐색 2
