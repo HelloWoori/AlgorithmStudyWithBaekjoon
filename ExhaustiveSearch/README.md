@@ -52,5 +52,8 @@
 - 암호 만들기
 	- https://www.acmicpc.net/problem/1759
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/MakePassword.cpp)
+- N-Queen
+	- https://www.acmicpc.net/problem/9663
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/NQueen.cpp)
 
 ## 완전 탐색 2
