@@ -55,5 +55,9 @@
 - N-Queen
 	- https://www.acmicpc.net/problem/9663
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/NQueen.cpp)
+- 스도쿠
+	- https://www.acmicpc.net/problem/2580
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/Sudoku.cpp)
+	
 
 ## 완전 탐색 2
