@@ -58,6 +58,7 @@
 - 스도쿠
 	- https://www.acmicpc.net/problem/2580
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/Sudoku.cpp)
-	
-
+- 알파벳
+	- https://www.acmicpc.net/problem/1987
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/Alphabet.cpp)	
 ## 완전 탐색 2
