@@ -61,4 +61,7 @@
 - 알파벳
 	- https://www.acmicpc.net/problem/1987
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/Alphabet.cpp)	
+- 로또
+	- https://www.acmicpc.net/problem/6603
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/Lotto2.cpp)
 ## 완전 탐색 2
