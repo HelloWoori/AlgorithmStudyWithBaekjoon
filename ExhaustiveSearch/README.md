@@ -64,4 +64,7 @@
 - 로또
 	- https://www.acmicpc.net/problem/6603
 	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/Lotto2.cpp)
+- 부분수열의 합
+	- https://www.acmicpc.net/problem/1182
+	- [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/ExhaustiveSearch/Subsequence.cpp)
 ## 완전 탐색 2
