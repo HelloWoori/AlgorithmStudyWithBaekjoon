@@ -5,6 +5,9 @@
 - 2xn 타일링
     - https://www.acmicpc.net/problem/11726
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming_2/2xn.cpp)
+- 2xn 타일링 2
+    - https://www.acmicpc.net/problem/11727
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming_2/2xn2.cpp)
 - 이동하기
     - https://www.acmicpc.net/problem/11048
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming_2/Move.cpp)
