@@ -14,6 +14,9 @@
 - 쉬운 계단 수
     - https://www.acmicpc.net/problem/10844
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming_2/EasyStepNum.cpp)
+- 오르막 수
+    - https://www.acmicpc.net/problem/11057
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming_2/UphillNum.cpp)
 - 이동하기
     - https://www.acmicpc.net/problem/11048
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming_2/Move.cpp)
