@@ -17,6 +17,9 @@
 - 오르막 수
     - https://www.acmicpc.net/problem/11057
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming_2/UphillNum.cpp)
+- 이친수
+    - https://www.acmicpc.net/problem/2193
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming_2/PinaryNum.cpp)
 - 이동하기
     - https://www.acmicpc.net/problem/11048
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming_2/Move.cpp)
