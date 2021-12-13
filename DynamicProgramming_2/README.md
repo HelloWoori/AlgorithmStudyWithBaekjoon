@@ -20,6 +20,9 @@
 - 이친수
     - https://www.acmicpc.net/problem/2193
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming_2/PinaryNum.cpp)
+- 스티커
+    - https://www.acmicpc.net/problem/9465
+    - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming_2/Sticker.cpp)
 - 이동하기
     - https://www.acmicpc.net/problem/11048
     - [내 소스](https://github.com/HelloWoori/AlgorithmStudyWithBaekjoon/blob/master/DynamicProgramming_2/Move.cpp)
